@@ -1,2 +1,0 @@
-Number of rows added to the output file = 6 
-The number of obese people in the given data = 4
